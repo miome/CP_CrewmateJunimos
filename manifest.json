@@ -1,0 +1,11 @@
+{
+   "Name": "Crewmate Junimos",
+   "Author": "Miome",
+   "Version": "1.0.0",
+   "Description": "Changes Junimos into mini-crewmates from Among Us",
+   "UniqueID": "miome.crewmatejunimos",
+   "ContentPackFor": {
+	"UniqueID": "Pathoschild.ContentPatcher",
+	"MinimumVersion": "1.0.0"
+    } 
+}
